@@ -46,9 +46,9 @@ public class Car {
         return currentSpeed;
     }
 
-    public int setCurrentSpeed(int currentSpeed) {
+    public void setCurrentSpeed(int currentSpeed) {
         this.currentSpeed = currentSpeed;
-        return currentSpeed;
+
     }
 
     @Override
