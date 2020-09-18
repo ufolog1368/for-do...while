@@ -104,7 +104,6 @@
             <artifactId>maven-deploy-plugin</artifactId>
             <version>3.0.0-M1</version>
         </dependency>
-
         <dependency>
             <groupId>org.jetbrains</groupId>
             <artifactId>annotations</artifactId>
@@ -115,7 +114,6 @@
 
 
     <properties>
-
         <sonar.projectKey>ufolog1368_Homework-Project-JavaGuru-course</sonar.projectKey>
         <sonar.organization>ufolog1368</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
