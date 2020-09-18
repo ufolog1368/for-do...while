@@ -104,6 +104,7 @@
             <artifactId>maven-deploy-plugin</artifactId>
             <version>3.0.0-M1</version>
         </dependency>
+
         <dependency>
             <groupId>org.jetbrains</groupId>
             <artifactId>annotations</artifactId>
@@ -114,10 +115,11 @@
 
 
     <properties>
-        <sonar.projectKey>ufolog1368_for-do...while</sonar.projectKey>
-        <sonar.organization>ufolog1368-1</sonar.organization>
+
+        <sonar.projectKey>ufolog1368_Homework-Project-JavaGuru-course</sonar.projectKey>
+        <sonar.organization>ufolog1368</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-        <sonar.login>10566a931fe4d79ddadafc70c33c1be78ed35bbc</sonar.login>
+        <sonar.login>8f4121b2886f9f6604a03946e858d25569ee8080</sonar.login>
     </properties>
 
 
